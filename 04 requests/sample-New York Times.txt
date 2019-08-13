@@ -1,0 +1,21 @@
+No. ,Source ,Title ,WebUrl ,Most Common Letter in title ,Frequency 
+1 ,New York Times ,China’s Voracious Appetite for Timber Stokes Fury in Russia and Beyond ,https://www.nytimes.com/2019/04/09/world/asia/chinas-voracious-appetite-for-timber-stokes-fury-in-russia-and-beyond.html ,i ,6 
+
+2 ,New York Times ,No Earrings, Tattoos or Cleavage: Inside China’s War on Fun ,https://www.nytimes.com/2019/03/27/business/china-war-on-fun-earrings-tattoos.html ,a ,6 
+
+3 ,New York Times ,In China, a $30,000 Penalty for Maligning a Building’s Feng Shui ,https://www.nytimes.com/2019/04/11/world/asia/china-feng-shui-penalty.html ,n ,7 
+
+4 ,New York Times ,China Yields on Malaysia Rail Project as Global Infrastructure Program Is Re-Examined ,https://www.nytimes.com/2019/04/12/business/chinese-high-speed-rail-malaysia.html ,a ,10 
+
+5 ,New York Times ,China’s President: There’s an App for That ,https://www.nytimes.com/2019/04/11/opinion/letters/china-xi-jinping.html ,e ,4 
+
+6 ,New York Times ,China Pledges Openness in Hopes of Reaching a Trade Deal ,https://www.nytimes.com/2019/03/24/business/china-trade-xi.html ,e ,8 
+
+7 ,New York Times ,In a Brutal Chinese Satire, Villagers Surrender to Their Worst Impulses ,https://www.nytimes.com/2018/12/28/books/review/yan-lianke-the-day-the-sun-died.html ,r ,8 
+
+8 ,New York Times ,Why China Silenced a Clickbait Queen in Its Battle for Information Control ,https://www.nytimes.com/2019/03/16/world/asia/china-bloggers-internet.html ,n ,7 
+
+9 ,New York Times ,A Chinese Activist and the Smear Campaign That Followed Her to Canada ,https://www.nytimes.com/2019/04/05/world/canada/sheng-xue-chinese-activist-smear-campaign.html ,a ,8 
+
+10 ,New York Times ,In Australia, Muslims Call for Pressure on China Over Missing Relatives ,https://www.nytimes.com/2019/04/13/world/australia/uighur-muslim-missing-relatives-australia.html ,s ,8 
+

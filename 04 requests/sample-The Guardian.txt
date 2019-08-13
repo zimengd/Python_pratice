@@ -1,0 +1,21 @@
+No. ,Source ,Title ,WebUrl ,Most Common Letter in title ,Frequency 
+1 ,The Guardian ,China warns US of 'all necessary measures' to protect Huawei ,https://www.theguardian.com/technology/2019/mar/08/china-warns-us-of-all-necessary-measures-to-protect-huawei ,a ,6 
+
+2 ,The Guardian ,Huawei: China calls US charges 'immoral' as markets slide ,https://www.theguardian.com/technology/2019/jan/28/huawei-china-telecoms-charged-us-trade-secrets-fraud ,a ,7 
+
+3 ,The Guardian ,China summons US ambassador over Huawei CFO's arrest ,https://www.theguardian.com/technology/2018/dec/09/china-summons-us-ambassador-over-huawei-cfos-arrest ,a ,6 
+
+4 ,The Guardian ,Google employees sign letter against censored search engine for China ,https://www.theguardian.com/technology/2018/nov/27/google-employees-letter-censored-search-engine-china-project-dragonfly ,e ,11 
+
+5 ,The Guardian ,China planted chips in Apple and Amazon servers, report claims ,https://www.theguardian.com/technology/2018/oct/04/china-planted-chips-on-apple-and-amazon-servers-report-claims ,n ,5 
+
+6 ,The Guardian ,To woo China, Apple must learn that it’s not in California any more ,https://www.theguardian.com/technology/2019/jan/06/apple-woo-china-not-in-california-iphone ,o ,6 
+
+7 ,The Guardian ,China-US feud threatens Canada as Huawei executive due in court ,https://www.theguardian.com/technology/2018/dec/07/huawei-meng-wanzhou-arrest-canada-china-response-relations ,e ,8 
+
+8 ,The Guardian ,Huawei wouldn't give Australian users' data to China, says chairman ,https://www.theguardian.com/technology/2018/jun/27/huawei-wouldnt-give-australian-users-data-to-china-says-chairman ,a ,9 
+
+9 ,The Guardian ,Amazon supplier in China ‘will tackle illegal work practices’ ,https://www.theguardian.com/technology/2018/jun/17/amazon-foxconn-china-will-tackle-illegal-work-practices ,l ,7 
+
+10 ,The Guardian ,Workers not paid legally by Amazon contractor in China ,https://www.theguardian.com/technology/2018/jun/09/amazon-contractor-foxconn-pay-workers-illegally ,o ,5 
+
