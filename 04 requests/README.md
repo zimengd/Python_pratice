@@ -1,4 +1,4 @@
-#practice using requests packages
+# practice using requests packages
 
 * get data from NYT and guardian APIs, store them in a chache file
 * define a class representing an article in NYT,find the most common letter in the title and its frequenct 
